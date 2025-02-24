@@ -8,9 +8,11 @@ Used precision, recall, F1-score, and a confusion matrix to analyze model perfor
 The model showed a steady improvement in both training and validation accuracy, reaching convergence with minimal overfitting.
 
 ![image alt](https://github.com/pulipakav1/Image-Classification-MNIST-/blob/0cebbfccdd5b9ea800e7fdae835f9a6e0401f438/Accuracy%20over%20epochs.png)
+
 Training loss fell drastically, whereas validation loss was steady with slight changes, indicating a well-generalized model.
 
 ![image alt](https://github.com/pulipakav1/Image-Classification-MNIST-/blob/0cebbfccdd5b9ea800e7fdae835f9a6e0401f438/Loss%20over%20epochs.png)
+
 Overall accuracy is 99%. Precision, recall, and F1-scores for all classes are near 0.99 or 1.00, suggesting good classification performance. The model maintains balanced performance across all classes and has no noticeable shortcomings.
 
 ![image alt](https://github.com/pulipakav1/Image-Classification-MNIST-/blob/0cebbfccdd5b9ea800e7fdae835f9a6e0401f438/Classification%20Report.png)
